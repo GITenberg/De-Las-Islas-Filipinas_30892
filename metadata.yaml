@@ -1,0 +1,25 @@
+_repo: De-Las-Islas-Filipinas_30892
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alvarez y Tejero, Luis Prudencio
+    alias: Tejero, Luis Prudencio Alvarez y
+    gutenberg_agent_id: '34879'
+    url: http://www.gutenberg.org/2009/agents/34879
+description: ''
+gutenberg_issued: '2010-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30892'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- Description and travel'
+- !lcc 'DS'
+title: De Las Islas Filipinas
+url: http://www.gutenberg.org/ebooks/30892
