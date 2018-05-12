@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34879'
     url: http://www.gutenberg.org/2009/agents/34879
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30892#De-Las-Islas-Filipinas
 gutenberg_issued: '2010-01-08'
 gutenberg_type: Text
 identifiers:
